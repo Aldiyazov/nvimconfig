@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/etc'
+let g:netrw_dirhist_1='/Users/aldiyar/.config/nvim/plugged/iroh-vim/colors'
+let g:netrw_dirhist_0='/Users/aldiyar/.config/nvim/plugged/iroh-vim'
+let g:netrw_dirhist_9='/Users/aldiyar/.config/nvim/plugged/iroh-vim/colors'
+let g:netrw_dirhist_8='/Users/aldiyar/.config/nvim/plugged/iroh-vim'
+let g:netrw_dirhist_7='/Users/aldiyar/OneDrive/Computer Science/2020-2021/CS2001/Practicals/P2/fsminterpreter/build'
+let g:netrw_dirhist_6='/Users/aldiyar/.oh-my-zsh/custom/themes/powerlevel10k/config'
+let g:netrw_dirhist_5='/Users/aldiyar/.oh-my-zsh/custom/themes/powerlevel10k'
+let g:netrw_dirhist_4='/Users/aldiyar/.oh-my-zsh/custom/themes'
+let g:netrw_dirhist_3='/Users/aldiyar/.oh-my-zsh/custom'
